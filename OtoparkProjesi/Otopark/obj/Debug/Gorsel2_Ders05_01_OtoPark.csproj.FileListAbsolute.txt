@@ -1,0 +1,99 @@
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe.config
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csprojResolveAssemblyReference.cache
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.KullaniciGirisi.resources
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Properties.Resources.resources
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.GenerateResource.Cache
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.exe
+c:\users\pau\documents\visual studio 2015\Projects\Gorsel2_Ders05_01_OtoPark\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe.config
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.exe
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csprojResolveAssemblyReference.cache
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.KullaniciGirisi.resources
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Properties.Resources.resources
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.GenerateResource.Cache
+F:\Gorsel2_Ders05_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Park.resources
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe.config
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.exe
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csprojResolveAssemblyReference.cache
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.KullaniciGirisi.resources
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Park.resources
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Properties.Resources.resources
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.GenerateResource.Cache
+F:\Gorsel2_Ders06_01_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.ParkGiris.resources
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe.config
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.exe
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csprojResolveAssemblyReference.cache
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.KullaniciGirisi.resources
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Park.resources
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.ParkGiris.resources
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Properties.Resources.resources
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.GenerateResource.Cache
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.ParkCikis.resources
+F:\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Arac.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe.config
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.exe
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Arac.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.KullaniciGirisi.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Park.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.ParkCikis.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.ParkGiris.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.Properties.Resources.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.GenerateResource.cache
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.exe
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.pdb
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.parkYeri.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.parkYeriTur.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.kullanici.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.musteri.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.eskiKayitlar.resources
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\RestSharp.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Buffers.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.CodeDom.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Data.Odbc.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Data.OleDb.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Drawing.Common.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.IO.Packaging.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.IO.Ports.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Memory.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.Permissions.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.Fody.CopyLocal.cache
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.csproj.CopyComplete
+C:\Users\gurka\OneDrive\Desktop\görsel sınav\Gorsel2_Ders06_02_OtoPark - Devam\Gorsel2_Ders05_01_OtoPark\obj\Debug\Gorsel2_Ders05_01_OtoPark.exe.licenses
